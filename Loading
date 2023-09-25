@@ -3,7 +3,7 @@ local bringfrec = 300
 local posX = 0
 local PosY = 30
 local posZ = 0
-local TweenSpeed = 250
+local TweenSpeed = 350
 --------------------------------
 
 Type = 1
