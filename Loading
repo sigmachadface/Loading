@@ -2604,7 +2604,7 @@ end
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmachadface/Script/main/Kronos"))()
 
 local window = library:Window({
-   Title = "Fai Fao Hub",
+   Title = "Zoru Hub",
    Accent = Color3.fromRGB(244, 244, 244),
    Logo = "14539549006",
    ToggleKey = Enum.KeyCode.RightControl
