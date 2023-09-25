@@ -3665,7 +3665,7 @@ end)
 
 Setting:Toggle({
    Text = "Fast Attack 2",
-   State = false,
+   State = true,
    Callback = function(value) 
    FastAttackSpeed = value
    end
