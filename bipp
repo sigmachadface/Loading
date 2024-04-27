@@ -86,7 +86,7 @@ end
 
 function lib:Window(text, preset, closebind)
     CloseBind = closebind or Enum.KeyCode.End
-    PresetColor = preset or Color3.fromRGB(44, 120, 224)
+    PresetColor = preset or Color3.fromRGB(0, 255, 0)
     fs = false
     local Main = Instance.new("Frame")
     local TabHold = Instance.new("Frame")
